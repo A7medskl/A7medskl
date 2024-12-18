@@ -39,4 +39,4 @@ I'm on a journey to become a **Software Engineer** and **Game Developer**, curre
 
 ## 📫 Connect With Me
 - **Discord**: [@a7medskl](https://discord.com/users/789938424282742815)
-- **GitHub**: [@A7med-sudo](https://github.com/A7medskl)
+- **GitHub**: [@A7medskl](https://github.com/A7medskl)
