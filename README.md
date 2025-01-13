@@ -7,7 +7,7 @@ I'm on a journey to become a **Software Engineer** and **Game Developer**, curre
 
 ## 🚀 About Me
 - 🌱 **Learning**: Python, problem-solving, and game development basics
-- 🎯 **Goals**: Master Python, C, C++, C#, JavaScript, and other programming languages
+- 🎯 **Goals**: Master Python, JavaScript, Lua, C, C++, C#, and other programming languages
 - 🎮 **Interests**: Building games and creating fun projects
 
 ---
