@@ -40,3 +40,49 @@ I'm on a journey to become a **Software Engineer** and **Game Developer**, curre
 ## 📫 Connect With Me
 - **Discord**: [@a7medskl](https://discord.com/users/789938424282742815)
 - **GitHub**: [@A7medskl](https://github.com/A7medskl)
+
+
+Voici une transcription réécrite et structurée de la documentation présente sur le tableau :
+
+Interface sur les arbres
+
+Constructeurs
+	1.	arbreVide()
+Retourne un arbre vide.
+	2.	arbre(valeur, gauche, droite)
+Crée un arbre à partir :
+	•	d’une valeur (étiquette),
+	•	d’un sous-arbre gauche,
+	•	d’un sous-arbre droit.
+
+Accesseurs
+	1.	est_arbreVide(arbre)
+Retourne un booléen indiquant si l’arbre est vide ou non.
+	2.	getValeur(arbre)
+Retourne l’étiquette de la racine de l’arbre.
+	3.	getGauche(arbre)
+Retourne le sous-arbre gauche de l’arbre passé en paramètre.
+	4.	getDroite(arbre)
+Retourne le sous-arbre droit de l’arbre passé en paramètre.
+	5.	hasGauche(arbre)
+Retourne True si l’arbre possède un sous-arbre gauche, sinon False.
+	6.	hasDroite(arbre)
+Retourne True si l’arbre possède un sous-arbre droit, sinon False.
+	7.	estFeuille(arbre)
+Retourne True si l’arbre est une feuille (aucun sous-arbre gauche ni droit), sinon False.
+	8.	arbreEqual(arbre1, arbre2)
+Retourne True si deux arbres sont égaux (même structure et mêmes valeurs), sinon False.
+
+Opérateurs
+	1.	setGauche(arbre, new_gauche)
+Modifie le sous-arbre gauche de l’arbre avec la nouvelle valeur passée en paramètre.
+	2.	setDroite(arbre, new_droite)
+Modifie le sous-arbre droit de l’arbre avec la nouvelle valeur passée en paramètre.
+
+Constructeur avancé
+	•	arbreComplet(hauteur)
+Crée un arbre complet de hauteur donnée avec des étiquettes et des relations définies.
+
+Cette documentation décrit les différentes fonctions associées à la manipulation des arbres binaires, comprenant la création, l’accès aux nœuds et la modification des sous-arbres.
+
+
