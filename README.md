@@ -41,24 +41,5 @@ I'm on a journey to become a **Software Engineer** and **Game Developer**, curre
 - **Discord**: [@a7medskl](https://discord.com/users/789938424282742815)
 - **GitHub**: [@A7medskl](https://github.com/A7medskl)
 
-Voici une version rédigée en tant que documentation claire pour la fonction :
 
-Fonction : generer_arbre(hauteur, densite)
-
-Description :
-Génère un arbre binaire avec des valeurs aléatoires. La hauteur et la densité de l’arbre sont spécifiées en paramètres. La densité représente le pourcentage de nœuds présents dans l’arbre par rapport à un arbre complet de même hauteur.
-	•	Formule pour le nombre maximal de nœuds dans un arbre complet :
-￼
-	•	Paramètres :
-	•	hauteur (int) : La hauteur maximale de l’arbre.
-	•	densite (float) : Un nombre entre 0 et 1 représentant la densité de l’arbre.
-	•	densite = 0.0 : Arbre vide.
-	•	densite = 1.0 : Arbre complet.
-	•	Retourne :
-Un arbre binaire généré aléatoirement, sous la forme d’une structure adaptée (ex. un objet ou un dictionnaire).
-
-Remarques :
-Cette fonction peut être utilisée pour tester des algorithmes sur des arbres de différentes complexités.
-
-Souhaitez-vous que je rédige aussi une version codée de cette fonction ?
 
